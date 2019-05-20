@@ -86,7 +86,7 @@ df.hist(bins=10)
 
 
 
-![png](Wine%20Sales%20Forecasting_files/Wine%20Sales%20Forecasting_5_1.png)
+![png](Wine%20Sales%20Forecasting_5_1.png)
 
 
 
@@ -164,7 +164,7 @@ plt.show()
 ```
 
 
-![png](Wine%20Sales%20Forecasting_files/Wine%20Sales%20Forecasting_10_0.png)
+![png](Wine%20Sales%20Forecasting_10_0.png)
 
 
 
@@ -175,7 +175,7 @@ plt.show()
 ```
 
 
-![png](Wine%20Sales%20Forecasting_files/Wine%20Sales%20Forecasting_11_0.png)
+![png](Wine%20Sales%20Forecasting_11_0.png)
 
 
 
@@ -186,7 +186,7 @@ plt.show()
 ```
 
 
-![png](Wine%20Sales%20Forecasting_files/Wine%20Sales%20Forecasting_12_0.png)
+![png](Wine%20Sales%20Forecasting_12_0.png)
 
 
 
@@ -197,7 +197,7 @@ plt.show()
 ```
 
 
-![png](Wine%20Sales%20Forecasting_files/Wine%20Sales%20Forecasting_13_0.png)
+![png](Wine%20Sales%20Forecasting_13_0.png)
 
 
 # Baseline Forecasting Model
@@ -711,7 +711,7 @@ plt.show()
 ```
 
 
-![png](Wine%20Sales%20Forecasting_files/Wine%20Sales%20Forecasting_23_0.png)
+![png](Wine%20Sales%20Forecasting_23_0.png)
 
 
 # Autocorrelation of Data
@@ -725,7 +725,7 @@ plt.show()
 ```
 
 
-![png](Wine%20Sales%20Forecasting_files/Wine%20Sales%20Forecasting_25_0.png)
+![png](Wine%20Sales%20Forecasting_25_0.png)
 
 
 
@@ -735,7 +735,7 @@ plt.show()
 ```
 
 
-![png](Wine%20Sales%20Forecasting_files/Wine%20Sales%20Forecasting_26_0.png)
+![png](Wine%20Sales%20Forecasting_26_0.png)
 
 
 
@@ -746,7 +746,7 @@ plt.show()
 ```
 
 
-![png](Wine%20Sales%20Forecasting_files/Wine%20Sales%20Forecasting_27_0.png)
+![png](Wine%20Sales%20Forecasting_27_0.png)
 
 
 
@@ -761,7 +761,7 @@ plt.show()
     
 
 
-![png](Wine%20Sales%20Forecasting_files/Wine%20Sales%20Forecasting_28_1.png)
+![png](Wine%20Sales%20Forecasting_28_1.png)
 
 
 # ARIMA Forecasting
@@ -817,11 +817,11 @@ print(residuals.describe())
     
 
 
-![png](Wine%20Sales%20Forecasting_files/Wine%20Sales%20Forecasting_30_2.png)
+![png](Wine%20Sales%20Forecasting_30_2.png)
 
 
 
-![png](Wine%20Sales%20Forecasting_files/Wine%20Sales%20Forecasting_30_3.png)
+![png](Wine%20Sales%20Forecasting_30_3.png)
 
 
                      0
@@ -918,7 +918,7 @@ plt.show()
     
 
 
-![png](Wine%20Sales%20Forecasting_files/Wine%20Sales%20Forecasting_32_1.png)
+![png](Wine%20Sales%20Forecasting_32_1.png)
 
 
 
@@ -947,7 +947,7 @@ plt.show()
     
 
 
-![png](Wine%20Sales%20Forecasting_files/Wine%20Sales%20Forecasting_33_1.png)
+![png](Wine%20Sales%20Forecasting_33_1.png)
 
 
 # Grid Search for Hyperparameters
@@ -1122,6 +1122,5 @@ plt.show()
     
 
 
-![png](Wine%20Sales%20Forecasting_files/Wine%20Sales%20Forecasting_40_1.png)
-
+![png](Wine%20Sales%20Forecasting_40_1.png)
 
